@@ -20,4 +20,4 @@
 
 - 🎨 Things I did:
 
-![](./images/recap_of_me.jpg)
+![recap_of_me.jpg shows generative works and physical computing experiments (a paintball gun driven by a servo, a plant watering system, an arduino joystick, a stepper driven stencil machine)](https://raw.githubusercontent.com/vvzen/vvzen/master/images/recap_of_me.jpg)
