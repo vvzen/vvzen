@@ -8,6 +8,8 @@
 
 ╱╲╱╱╱╲╱╱╲╱╲╲╱╱╲╱╲╲╱╱╱╲╲╲╲╱╱╲╱╱╱╲╱╱╲╲╱╲╱╱╱
 
+- I believe that inclusion in software development is incredibly important so that we can better reflect the complexity of reality
+
 - 🎥💥 I'm a thinkerer by nature, currently working in the VFX industry as a Pipeline TD
 
 - 👨🏻‍🎨 My background is a mixed bag of Humanities and Computer Science that finds its peak in Computational Arts. As you've guessed, computer code to me it's much more that just instructions for machines
