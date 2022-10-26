@@ -14,7 +14,7 @@
 
 - 👨🏻‍🎨 My background is a mixed bag of Humanities and Computer Science that finds its peak in Computational Arts. As you've guessed, computer code to me it's much more that just instructions for machines
 
-- 🐍 Python and a good shell (zsh, bash, fish..) are my dearest friends right now. In the past I also hung out with C++/JS/Java (in decreasing order of love)
+- 🦀 Rust and a good shell (zsh, bash, fish..) are my dearest friends right now. In the past I also hung out with C++/JS/Java (in decreasing order of love)
 
 - 👨🏻‍💻 If you're into Openframeworks, Cinder, Processing or Threejs then let's get in touch!
 
