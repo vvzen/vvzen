@@ -12,7 +12,7 @@
 
 - 🎥💥 I'm a thinkerer by nature, currently working in the VFX industry as a Pipeline TD
 
-- 👨🏻‍🎨 My background is a mixed bag of Humanities and Computer Science that finds its peak in Computational Arts. As you've guessed, computer code to me it's much more that just instructions for machines
+- 👨🏻‍🎨 My background is a mixed bag of Humanities and Computer Science that finds its peak in Computational Arts. Computer code to me it's much more than just instructions for machines.
 
 - 🦀 Rust and a good shell (zsh, bash, fish..) are my dearest friends right now. In the past I also hung out with C++/JS/Java (in decreasing order of love)
 
